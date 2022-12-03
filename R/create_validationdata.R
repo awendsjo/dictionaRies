@@ -11,8 +11,8 @@ create_validationdata <- function(data,n){
     val_data[i,2] <- readline(prompt="Populism?")
     if (val_data[i,2]==1){
       val_data[i,3] = readline(prompt="People centrism?")
-      val_data[i,3] = readline(prompt="Anti-elitism?")
-      val_data[i,3] = readline(prompt="People sovereignty?")
+      val_data[i,4] = readline(prompt="Anti-elitism?")
+      val_data[i,5] = readline(prompt="People sovereignty?")
     }
   }
   return(val_data)
