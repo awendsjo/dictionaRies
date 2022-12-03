@@ -14,5 +14,4 @@ test_word(x)
 \value{Returns texts that are matched with the input word.
 }
 
-\author{Albert Wendsjö
-}
+\author{Albert Wendsjo}

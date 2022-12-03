@@ -10,7 +10,4 @@
   }
 \value{Returnes precision defined as TP/(TP+FP)
 }
-\references{
-%% ~put references to the literature/web site here ~
-}
 \author{Albert Wendsjö}

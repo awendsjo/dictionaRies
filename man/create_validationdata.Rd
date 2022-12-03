@@ -12,5 +12,4 @@ create_validationdata(data,n)
 \value{n observatiosn that need to be manually classified.
     When finished returns a classified training dataset.
 }
-\author{Albert Wendsjö
-}
+\author{Albert Wendsjo}
